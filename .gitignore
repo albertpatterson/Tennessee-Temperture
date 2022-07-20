@@ -1,0 +1,5 @@
+not_shared
+__pycache__
+env
+raw_data
+.vscode
