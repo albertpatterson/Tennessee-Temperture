@@ -13,7 +13,7 @@ lats = points.transpose()[1]
 values = np.array(temps).transpose()
 
 minLon = -90.3
-maxLon = -81.4
+maxLon = -81.6
 minLat = 34.85
 maxLat = 36.75
 
