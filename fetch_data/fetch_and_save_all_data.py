@@ -1,4 +1,4 @@
-from constants import tnZipCodes
+from constants.zip_codes import tnZipCodes
 from fetch_data.fetch_and_save import fetchAndSaveWeatherData
 import time
 
